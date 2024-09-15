@@ -1,1 +1,1 @@
-# Working with React to create A brief sample travel journal
+# Working with React to create A brief simple travel journal
